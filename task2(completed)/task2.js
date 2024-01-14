@@ -53,7 +53,7 @@
     {
         id: 11,
         name: "Resource #11",
-        campaign_id: '2332',YES TUKA IMA TRETA PROMENA
+        campaign_id: '2332',YES TUKA IMA CETVRTA PROMENA
         country: 'MX',
         startDate: "20220110",
         endDate: "20220111",
